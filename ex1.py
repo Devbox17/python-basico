@@ -1,2 +1,1 @@
-aaaaaaaagiiiii
-kfdkfdkkaaaaabbb
+print('Olá, Mundo!')
